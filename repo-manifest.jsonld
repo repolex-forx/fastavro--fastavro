@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fastavro/fastavro/commit/c62f6fe32505415824df1672dfc2195478187bb0",
       "git:hexsha": "c62f6fe32505415824df1672dfc2195478187bb0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fastavro/fastavro/commit/5ef29f8965f16fc2f2536fb0f343e71072c86754",
