@@ -1,0 +1,11 @@
+{
+  "org": "fastavro",
+  "repo": "fastavro",
+  "versions": [
+    {
+      "commit": "c62f6fe32505415824df1672dfc2195478187bb0",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:51:47.988922+00:00"
+    }
+  ]
+}
